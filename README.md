@@ -38,6 +38,7 @@
 - [awesome-react](https://github.com/enaqx/awesome-react) A collection of awesome things regarding React ecosystem
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⚡ Delightful Node.js packages and resources
 - [awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml) A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.
+- [awesome-tools](https://github.com/cube-js/awesome-tools) Open-source list of awesome data visualization tools (e.g., charting libraries) for software developers 📊📈
 
 ## C
 - [nnn](https://github.com/jarun/nnn) n³ The unorthodox terminal file manager
@@ -49,6 +50,40 @@
 - [Tasmota](https://github.com/arendst/Tasmota) Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 - [X-TRACK](https://github.com/FASTSHIFT/X-TRACK) A GPS bicycle speedometer that supports offline maps and track recording
 - [rufus](https://github.com/pbatard/rufus) The Reliable USB Formatting Utility
+- [libhv](https://github.com/ithewei/libhv) 🔥 比libevent、libuv更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.
+- [mpv](https://github.com/mpv-player/mpv) 🎥 Command line video player
+- [Mailspring](https://github.com/Foundry376/Mailspring) 💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
+- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) OpenCore bootloader
+- [libevent](https://github.com/libevent/libevent) Event notification library
+- [esp-idf](https://github.com/espressif/esp-idf) Espressif IoT Development Framework. Official development framework for Espressif SoCs.
+- [cJSON](https://github.com/DaveGamble/cJSON) Ultralightweight JSON parser in ANSI C
+- [jemalloc](https://github.com/jemalloc/jemalloc) memory allocator jemalloc is a general purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support.
+- [FreeRDP](https://github.com/FreeRDP/FreeRDP) FreeRDP is a free remote desktop protocol library and clients
+- [qemu](https://github.com/qemu/qemu) QEMU is a generic and open source machine & userspace emulator and virtualizer.
+- [deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) Deepin Wine for Ubuntu/Debian
+- [8cc](https://github.com/rui314/8cc) A Small C Compiler
+- [smartdns](https://github.com/pymumu/smartdns) A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
+- [littlefs](https://github.com/littlefs-project/littlefs) A little fail-safe filesystem designed for microcontrollers
+- [pushdeer](https://github.com/easychen/pushdeer) 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
+- [tinyusb](https://github.com/hathach/tinyusb) An open source cross-platform USB stack for embedded system
+- [inih](https://github.com/benhoyt/inih) Simple .INI file parser in C, good for embedded systems
+- [mini3d](https://github.com/skywind3000/mini3d) 3D Software Renderer in 700 Lines !!
+- [utf8.h](https://github.com/sheredom/utf8.h) 📚 single header utf8 string functions for C and C++
+- [chadwm](https://github.com/siduck/chadwm) Making dwm as beautiful as possible!
+- [PurC](https://github.com/HVML/PurC) The prime HVML interpreter for C Language.
+- [Ctrl-FOC-Lite](https://github.com/peng-zhihui/Ctrl-FOC-Lite) 基于SimpleFOC的一个修改版项目
+- [uefi-ntfs](https://github.com/pbatard/uefi-ntfs) UEFI:NTFS - Boot NTFS or exFAT partitions from UEFI
+- [MQTT-C](https://github.com/LiamBindle/MQTT-C) A portable MQTT C client for embedded systems and PCs alike.
+- [MiniGUI](https://github.com/VincentWei/MiniGUI) A modern and mature cross-platform window system for embedded systems and smart IoT devices.
+- [TeenyUSB](https://github.com/xtoolbox/TeenyUSB) Lightweight USB device and host stack for STM32 and other MCUs. Ready for USB 3.0 device.
+- [CherryUSB](https://github.com/sakumisu/CherryUSB) Tiny and portable USB device/host stack for embedded system with USB IP
+- [efifs](https://github.com/pbatard/efifs) EFI FileSystem drivers
+- [ocserv](https://github.com/openconnect/ocserv) Unofficial copy of ocserv repository (no longer updated)
+- [RFIDtools](https://github.com/RfidResearchGroup/RFIDtools) RRG Android App for use with Proxmark3 RDV4 and the blueshark addon
+- [RX5808-Div](https://github.com/Ft-Available/RX5808-Div) 自制的RX5808接收机
+- [MEUI](https://github.com/ZhUyU1997/MEUI) Modern embedded UI 现代嵌入式用户界面
+- [SuperRDP](https://github.com/anhkgg/SuperRDP) Super RDPWrap
+
 ## C++
 - [imgui](https://github.com/ocornut/imgui) Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) C++那些事
@@ -75,6 +110,8 @@
 - [grm](https://github.com/gphper/grm) redis web端管理工具（gin+element-plus）【部署简单便捷，SSH连接，用户校验，操作日志、命令行模式、LUA脚本执行等】
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。
 - [gocv](https://github.com/hybridgroup/gocv) Go package for computer vision using OpenCV 4 and beyond.
+- [paopao-ce](https://github.com/rocboss/paopao-ce) 🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
+- [bbs-go](https://github.com/mlogclub/bbs-go) 基于Golang的开源社区系统。
 
 ## Java
 - [Sa-Token](https://github.com/dromara/Sa-Token) 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
@@ -89,12 +126,14 @@
 
 ## Javascript
 - [gitmoji](https://github.com/carloscuesta/gitmoji) An emoji guide for your commit messages. 😜
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts) 📜 33 JavaScript concepts every developer should know.
 ## TypeScript
 - [tui.editor](https://github.com/nhn/tui.editor) 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 
 ## Python
 - [iredis](https://github.com/laixintao/iredis) Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
+- [trinib](https://github.com/trinib/trinib) Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your own. ⒺⒶⓈⓎ descriptive layout in editor with links to all 🄵🅴🄰🆃🅄🆁🄴🆂 . Readme chess♟️ ◉═╬::::::::::::::::::::::::::::::::::::⫸♚ ♛ ♜ ♝ ♞ ▓▒░🔴Connect Dot🟡░…
 
 ## CSS
 - [iCSS](https://github.com/chokcoco/iCSS) CSS 奇技淫巧，在这里，都有。
@@ -127,8 +166,9 @@
 - [vim-go](https://github.com/fatih/vim-go) Go development plugin for Vim
 
 ## Mac
-- [Medis](https://github.com/luin/medis) Medis is a modern Redis GUI designed for Mac.
-It is trustworthy in critical situations.
+- [Medis](https://github.com/luin/medis) Medis is a modern Redis GUI designed for Mac. It is trustworthy in critical situations.
+- [Homebrew](https://github.com/Homebrew/brew) 🍺 The missing package manager for macOS (or Linux)
 
 ## iOS
 - [PPHUB](https://github.com/PPHubApp/PPHub-Feedback) PPHub For GitHub - 开发者必备 简洁实用的GitHub客户端
+- [ish](https://github.com/ish-app/ish) Linux shell for iOS
