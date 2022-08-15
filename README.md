@@ -1,9 +1,10 @@
 # awesome-x
 
-<h2>Contents</h2>
+## Contents
 
 
 - [awesome-x](#awesome-x)
+  - [Contents](#contents)
   - [GitHub-awesome](#github-awesome)
   - [C](#c)
   - [C++](#c-1)
@@ -14,6 +15,7 @@
   - [TypeScript](#typescript)
   - [Python](#python)
   - [CSS](#css)
+  - [QML](#qml)
   - [Git](#git)
   - [Linux](#linux)
   - [Shell](#shell)
@@ -83,6 +85,9 @@
 
 ## CSS
 - [iCSS](https://github.com/chokcoco/iCSS) CSS 奇技淫巧，在这里，都有。
+
+## QML
+- [TaoQuick](https://github.com/jaredtao/TaoQuick) a cool QtQuick/qml component library and demo(一套酷炫的QtQuick/Qml基础库和示例)
 
 ## Git
 - [tips](https://github.com/git-tips/tips) Most commonly used git tips and tricks.
