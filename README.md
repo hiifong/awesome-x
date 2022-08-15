@@ -11,12 +11,14 @@
   - [Go](#go)
   - [Java](#java)
   - [Kotlin](#kotlin)
+  - [Swift](#swift)
   - [Javascript](#javascript)
   - [TypeScript](#typescript)
   - [Python](#python)
   - [CSS](#css)
   - [QML](#qml)
   - [Git](#git)
+  - [Docker](#docker)
   - [Linux](#linux)
   - [Shell](#shell)
   - [CMake](#cmake)
@@ -46,6 +48,7 @@
 - [QuickJS](https://github.com/quickjs-zh/QuickJS) QuickJS是一个小型并且可嵌入的Javascript引擎，它支持ES2020规范，包括模块，异步生成器和代理器。
 - [Tasmota](https://github.com/arendst/Tasmota) Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 - [X-TRACK](https://github.com/FASTSHIFT/X-TRACK) A GPS bicycle speedometer that supports offline maps and track recording
+- [rufus](https://github.com/pbatard/rufus) The Reliable USB Formatting Utility
 ## C++
 - [imgui](https://github.com/ocornut/imgui) Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) C++那些事
@@ -70,6 +73,8 @@
 - [nps](https://github.com/ehang-io/nps) 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [hub](https://github.com/github/hub) A command-line tool that makes git easier to use with GitHub.
 - [grm](https://github.com/gphper/grm) redis web端管理工具（gin+element-plus）【部署简单便捷，SSH连接，用户校验，操作日志、命令行模式、LUA脚本执行等】
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。
+- [gocv](https://github.com/hybridgroup/gocv) Go package for computer vision using OpenCV 4 and beyond.
 
 ## Java
 - [Sa-Token](https://github.com/dromara/Sa-Token) 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
@@ -79,10 +84,14 @@
 ## Kotlin
 - [SmsForwarder](https://github.com/pppscn/SmsForwarder) 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 
+## Swift
+- [uPic](https://github.com/gee1k/uPic) 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
+
 ## Javascript
 - [gitmoji](https://github.com/carloscuesta/gitmoji) An emoji guide for your commit messages. 😜
 ## TypeScript
 - [tui.editor](https://github.com/nhn/tui.editor) 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+- [qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 
 ## Python
 - [iredis](https://github.com/laixintao/iredis) Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
@@ -96,6 +105,9 @@
 ## Git
 - [tips](https://github.com/git-tips/tips) Most commonly used git tips and tricks.
 - [git-tips](https://github.com/521xueweihan/git-tips) :trollface:Git的奇技淫巧
+
+## Docker
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 
 ## Linux
 - [linux](https://github.com/torvalds/linux) Linux kernel source tree
@@ -112,6 +124,7 @@
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) Vundle, the plug-in manager for Vim
 - [vim-airline](https://github.com/vim-airline/vim-airline) lean & mean status/tabline for vim that's light as air
 - [nerdtree](https://github.com/preservim/nerdtree) A tree explorer plugin for vim.
+- [vim-go](https://github.com/fatih/vim-go) Go development plugin for Vim
 
 ## Mac
 - [Medis](https://github.com/luin/medis) Medis is a modern Redis GUI designed for Mac.
