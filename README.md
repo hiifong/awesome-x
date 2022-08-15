@@ -40,8 +40,12 @@
 ## C
 - [nnn](https://github.com/jarun/nnn) n³ The unorthodox terminal file manager
 - [HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) 瀚文 智能键盘是一把我为自己使用需求设计的 多功能、模块化 机械键盘。
+- [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) 我的超迷你机械臂机器人项目。
+- [HoloCubic](https://github.com/peng-zhihui/HoloCubic) 带网络功能的伪全息透明显示桌面站
 - [lvgl](https://github.com/lvgl/lvgl) Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [QuickJS](https://github.com/quickjs-zh/QuickJS) QuickJS是一个小型并且可嵌入的Javascript引擎，它支持ES2020规范，包括模块，异步生成器和代理器。
+- [Tasmota](https://github.com/arendst/Tasmota) Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+- [X-TRACK](https://github.com/FASTSHIFT/X-TRACK) A GPS bicycle speedometer that supports offline maps and track recording
 ## C++
 - [imgui](https://github.com/ocornut/imgui) Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) C++那些事
