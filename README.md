@@ -33,7 +33,8 @@
 
 ## GitHub-awesome
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) 😎 Awesome lists about all kinds of interesting topics
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) Master programming by recreating your favorite technologies from scratch.
+- [awesome](https://github.com/sindresorhus/awesome) 😎 Awesome lists about all kinds of interesting topics
 - [awesome-python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesome-go](https://github.com/avelino/awesome-go) A curated list of awesome Go frameworks, libraries and software
