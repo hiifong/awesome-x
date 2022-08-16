@@ -6,6 +6,8 @@
 - [awesome-x](#awesome-x)
   - [Contents](#contents)
   - [GitHub-awesome](#github-awesome)
+  - [Algorithm](#algorithm)
+  - [Interview](#interview)
   - [C](#c)
   - [C++](#c-1)
   - [Go](#go)
@@ -14,20 +16,23 @@
   - [Swift](#swift)
   - [Javascript](#javascript)
   - [TypeScript](#typescript)
+  - [Vue](#vue)
   - [Python](#python)
+  - [CMake](#cmake)
   - [CSS](#css)
   - [QML](#qml)
   - [Git](#git)
   - [Docker](#docker)
   - [Linux](#linux)
   - [Shell](#shell)
-  - [CMake](#cmake)
+  - [CMake](#cmake-1)
   - [Vim-Plugin](#vim-plugin)
   - [Mac](#mac)
   - [iOS](#ios)
 
 
 ## GitHub-awesome
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) 😎 Awesome lists about all kinds of interesting topics
 - [awesome-python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) A list of Free Software network services and web applications which can be hosted on your own servers
@@ -39,6 +44,17 @@
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⚡ Delightful Node.js packages and resources
 - [awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml) A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.
 - [awesome-tools](https://github.com/cube-js/awesome-tools) Open-source list of awesome data visualization tools (e.g., charting libraries) for software developers 📊📈
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+
+## Algorithm
+- [Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+
+## Interview
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) 💯 Curated coding interview preparation materials for busy software engineers
+- [interview](https://github.com/huihut/interview) 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation…
+
 
 ## C
 - [nnn](https://github.com/jarun/nnn) n³ The unorthodox terminal file manager
@@ -83,6 +99,9 @@
 - [RX5808-Div](https://github.com/Ft-Available/RX5808-Div) 自制的RX5808接收机
 - [MEUI](https://github.com/ZhUyU1997/MEUI) Modern embedded UI 现代嵌入式用户界面
 - [SuperRDP](https://github.com/anhkgg/SuperRDP) Super RDPWrap
+- [WindTerm](https://github.com/kingToolbox/WindTerm) A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
+- [os-tutorial](https://github.com/cfenollosa/os-tutorial) How to create an OS from scratch
+- [mpu6050](https://github.com/hepingood/mpu6050) mpu6050 full function driver
 
 ## C++
 - [imgui](https://github.com/ocornut/imgui) Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
@@ -90,6 +109,13 @@
 - [srs](https://github.com/ossrs/srs) SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
 - [fmt](https://github.com/fmtlib/fmt) A modern formatting library
 - [cpeditor](https://github.com/cpeditor/cpeditor) The IDE for competitive programming 🎉 | Fetch, Code, Compile, Run, Check, Submit 🚀
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) TrafficMonitor is a network monitoring software with floating window feature for Windows. It displays the current internet speed and CPU and RAM usage. There are also other capabilities like an embedded display in the taksbar, changeable display skins, and historical traffic statistics.
+- [o3de](https://github.com/o3de/o3de) Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
+- [json](https://github.com/nlohmann/json) JSON for Modern C++
+- [aria2](https://github.com/aria2/aria2) aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [ImHex](https://github.com/WerWolv/ImHex) 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [Marlin](https://github.com/MarlinFirmware/Marlin) Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. 
+- [abseil-cpp](https://github.com/abseil/abseil-cpp) Abseil Common Libraries (C++)
 ## Go
 - [gitea](https://github.com/go-gitea/gitea) Git with a cup of tea, painless self-hosted git service
 - [gin](https://github.com/gin-gonic/gin) Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -112,6 +138,11 @@
 - [gocv](https://github.com/hybridgroup/gocv) Go package for computer vision using OpenCV 4 and beyond.
 - [paopao-ce](https://github.com/rocboss/paopao-ce) 🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
 - [bbs-go](https://github.com/mlogclub/bbs-go) 基于Golang的开源社区系统。
+- [olive](https://github.com/go-olive/olive) Live Stream Recorder 直播录制/录播
+- [echo](https://github.com/labstack/echo) High performance, minimalist Go web framework
+- [navidrome](https://github.com/navidrome/navidrome) 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+- [alist](https://github.com/alist-org/alist) 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+- [jwt](https://github.com/golang-jwt/jwt) A go (or 'golang' for search engine friendliness) implementation of JSON Web Tokens.
 
 ## Java
 - [Sa-Token](https://github.com/dromara/Sa-Token) 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
@@ -127,13 +158,23 @@
 ## Javascript
 - [gitmoji](https://github.com/carloscuesta/gitmoji) An emoji guide for your commit messages. 😜
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) 📜 33 JavaScript concepts every developer should know.
+- [phaser](https://github.com/photonstorm/phaser) Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions) A long list of (advanced) JavaScript questions, and their explanations ✨
 ## TypeScript
 - [tui.editor](https://github.com/nhn/tui.editor) 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 
+## Vue
+- [best-resume-ever](https://github.com/salomonelli/best-resume-ever) 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+- [mavonEditor](https://github.com/hinesboy/mavonEditor) mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
+- [rubick](https://github.com/rubickCenter/rubick) 🔧 Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
+
 ## Python
 - [iredis](https://github.com/laixintao/iredis) Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [trinib](https://github.com/trinib/trinib) Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your own. ⒺⒶⓈⓎ descriptive layout in editor with links to all 🄵🅴🄰🆃🅄🆁🄴🆂 . Readme chess♟️ ◉═╬::::::::::::::::::::::::::::::::::::⫸♚ ♛ ♜ ♝ ♞ ▓▒░🔴Connect Dot🟡░…
+
+## CMake
+- [cmake-init](https://github.com/friendlyanon/cmake-init) The missing CMake project initializer
 
 ## CSS
 - [iCSS](https://github.com/chokcoco/iCSS) CSS 奇技淫巧，在这里，都有。
@@ -168,6 +209,8 @@
 ## Mac
 - [Medis](https://github.com/luin/medis) Medis is a modern Redis GUI designed for Mac. It is trustworthy in critical situations.
 - [Homebrew](https://github.com/Homebrew/brew) 🍺 The missing package manager for macOS (or Linux)
+- [iTerm2](https://github.com/gnachman/iTerm2) iTerm2 is a terminal emulator for Mac OS X that does amazing things.
+- [iterm](https://github.com/catppuccin/iterm) 🍭 Soothing pastel theme for iTerm2
 
 ## iOS
 - [PPHUB](https://github.com/PPHubApp/PPHub-Feedback) PPHub For GitHub - 开发者必备 简洁实用的GitHub客户端
