@@ -7,6 +7,7 @@
   - [Contents](#contents)
   - [GitHub-awesome](#github-awesome)
   - [Algorithm](#algorithm)
+  - [CS](#cs)
   - [Interview](#interview)
   - [C](#c)
   - [C++](#c-1)
@@ -27,6 +28,7 @@
   - [Shell](#shell)
   - [CMake](#cmake-1)
   - [Vim-Plugin](#vim-plugin)
+  - [embedded](#embedded)
   - [Mac](#mac)
   - [iOS](#ios)
 
@@ -51,6 +53,10 @@
 - [Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+
+## CS
+- [Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource) 学习计算机科学的一些pdf资源
+- [java-books-collections](https://github.com/RongleXie/java-books-collections) 📚Java编程书籍收集分享。Java programming books collection to share.🚀
 
 ## Interview
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) 💯 Curated coding interview preparation materials for busy software engineers
@@ -159,8 +165,10 @@
 ## Javascript
 - [gitmoji](https://github.com/carloscuesta/gitmoji) An emoji guide for your commit messages. 😜
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) 📜 33 JavaScript concepts every developer should know.
+- [33-js-concepts](https://github.com/stephentian/33-js-concepts) 📜 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
 - [phaser](https://github.com/photonstorm/phaser) Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) A long list of (advanced) JavaScript questions, and their explanations ✨
+- [50projects50days](https://github.com/bradtraversy/50projects50days) 50+ mini web projects using HTML, CSS & JS
 ## TypeScript
 - [tui.editor](https://github.com/nhn/tui.editor) 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
@@ -173,6 +181,7 @@
 ## Python
 - [iredis](https://github.com/laixintao/iredis) Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [trinib](https://github.com/trinib/trinib) Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your own. ⒺⒶⓈⓎ descriptive layout in editor with links to all 🄵🅴🄰🆃🅄🆁🄴🆂 . Readme chess♟️ ◉═╬::::::::::::::::::::::::::::::::::::⫸♚ ♛ ♜ ♝ ♞ ▓▒░🔴Connect Dot🟡░…
+- [public-apis](https://github.com/public-apis/public-apis) A collective list of free APIs
 
 ## CMake
 - [cmake-init](https://github.com/friendlyanon/cmake-init) The missing CMake project initializer
@@ -207,6 +216,9 @@
 - [nerdtree](https://github.com/preservim/nerdtree) A tree explorer plugin for vim.
 - [vim-go](https://github.com/fatih/vim-go) Go development plugin for Vim
 
+
+## embedded
+- [EmbedSummary](https://github.com/zhengnianli/EmbedSummary) 精品嵌入式资源汇总
 ## Mac
 - [Medis](https://github.com/luin/medis) Medis is a modern Redis GUI designed for Mac. It is trustworthy in critical situations.
 - [Homebrew](https://github.com/Homebrew/brew) 🍺 The missing package manager for macOS (or Linux)
