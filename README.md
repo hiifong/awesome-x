@@ -123,6 +123,7 @@
 - [ImHex](https://github.com/WerWolv/ImHex) 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Marlin](https://github.com/MarlinFirmware/Marlin) Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. 
 - [abseil-cpp](https://github.com/abseil/abseil-cpp) Abseil Common Libraries (C++)
+- [blender](https://github.com/blender/blender) Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing, motion tracking and video editing.
 ## Go
 - [gitea](https://github.com/go-gitea/gitea) Git with a cup of tea, painless self-hosted git service
 - [gin](https://github.com/gin-gonic/gin) Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
