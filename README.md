@@ -110,6 +110,7 @@
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) How to create an OS from scratch
 - [mpu6050](https://github.com/hepingood/mpu6050) mpu6050 full function driver
 - [blender](https://github.com/blender/blender) Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing, motion tracking and video editing.
+- [littlefs](https://github.com/littlefs-project/littlefs) A little fail-safe filesystem designed for microcontrollers
 
 ## C++
 - [imgui](https://github.com/ocornut/imgui) Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
