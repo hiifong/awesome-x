@@ -37,6 +37,7 @@
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer.
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) Master programming by recreating your favorite technologies from scratch.
 - [awesome](https://github.com/sindresorhus/awesome) 😎 Awesome lists about all kinds of interesting topics
+- [awesome-resources](https://github.com/shahednasser/awesome-resources) 😎 List of helpful resources added by the community for the community!
 - [awesome-python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesome-go](https://github.com/avelino/awesome-go) A curated list of awesome Go frameworks, libraries and software
@@ -111,6 +112,9 @@
 - [mpu6050](https://github.com/hepingood/mpu6050) mpu6050 full function driver
 - [blender](https://github.com/blender/blender) Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing, motion tracking and video editing.
 - [littlefs](https://github.com/littlefs-project/littlefs) A little fail-safe filesystem designed for microcontrollers
+- [jdupes](https://github.com/lhecker/jdupes) A powerful duplicate file finder and an enhanced fork of 'fdupes'.
+- [IronOS](https://github.com/Ralim/IronOS) Open Source Soldering Iron firmware for Miniware and Pinecil
+- [xxHash](https://github.com/Cyan4973/xxHash) Extremely fast non-cryptographic hash algorithm
 
 ## C++
 - [imgui](https://github.com/ocornut/imgui) Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
@@ -153,11 +157,13 @@
 - [navidrome](https://github.com/navidrome/navidrome) 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [alist](https://github.com/alist-org/alist) 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [jwt](https://github.com/golang-jwt/jwt) A go (or 'golang' for search engine friendliness) implementation of JSON Web Tokens.
+- [color](https://github.com/fatih/color) Color package for Go (golang)
 
 ## Java
 - [Sa-Token](https://github.com/dromara/Sa-Token) 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
 - [druid](https://github.com/alibaba/druid) 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
 - [mybatis-plus](https://github.com/baomidou/mybatis-plus) An powerful enhanced toolkit of MyBatis for simplify development
+- [AppManager](https://github.com/MuntashirAkon/AppManager) A full-featured package manager and viewer for Android
 
 ## Kotlin
 - [SmsForwarder](https://github.com/pppscn/SmsForwarder) 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
@@ -172,9 +178,11 @@
 - [phaser](https://github.com/photonstorm/phaser) Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) A long list of (advanced) JavaScript questions, and their explanations ✨
 - [50projects50days](https://github.com/bradtraversy/50projects50days) 50+ mini web projects using HTML, CSS & JS
+- [get-site-urls](https://github.com/alex-page/get-site-urls) 🔗 Get all of the URL's from a website.
 ## TypeScript
 - [tui.editor](https://github.com/nhn/tui.editor) 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+- [prettierd](https://github.com/fsouza/prettierd) prettier, as a daemon, for ludicrous formatting speed.
 
 ## Vue
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
@@ -185,6 +193,7 @@
 - [iredis](https://github.com/laixintao/iredis) Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [trinib](https://github.com/trinib/trinib) Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your own. ⒺⒶⓈⓎ descriptive layout in editor with links to all 🄵🅴🄰🆃🅄🆁🄴🆂 . Readme chess♟️ ◉═╬::::::::::::::::::::::::::::::::::::⫸♚ ♛ ♜ ♝ ♞ ▓▒░🔴Connect Dot🟡░…
 - [public-apis](https://github.com/public-apis/public-apis) A collective list of free APIs
+- [pudb](https://github.com/inducer/pudb) Full-screen console debugger for Python
 
 ## CMake
 - [cmake-init](https://github.com/friendlyanon/cmake-init) The missing CMake project initializer
