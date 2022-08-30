@@ -159,6 +159,7 @@
 - [jwt](https://github.com/golang-jwt/jwt) A go (or 'golang' for search engine friendliness) implementation of JSON Web Tokens.
 - [color](https://github.com/fatih/color) Color package for Go (golang)
 - [devbox](https://github.com/jetpack-io/devbox) Instant, easy, predictable shells and containers.
+- [CasaOS](https://github.com/IceWhaleTech/CasaOS) CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 
 ## Java
 - [Sa-Token](https://github.com/dromara/Sa-Token) 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
