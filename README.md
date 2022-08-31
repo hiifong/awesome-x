@@ -49,6 +49,7 @@
 - [awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml) A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.
 - [awesome-tools](https://github.com/cube-js/awesome-tools) Open-source list of awesome data visualization tools (e.g., charting libraries) for software developers 📊📈
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 ## Algorithm
 - [Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python
@@ -185,6 +186,7 @@
 - [tui.editor](https://github.com/nhn/tui.editor) 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [prettierd](https://github.com/fsouza/prettierd) prettier, as a daemon, for ludicrous formatting speed.
+- [novu](https://github.com/novuhq/novu) 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...
 
 ## Vue
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
