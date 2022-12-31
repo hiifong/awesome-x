@@ -1,14 +1,11 @@
 # awesome-x
 
 ## Contents
-
-
-- [awesome-x](#awesome-x)
-  - [Contents](#contents)
-  - [GitHub-awesome](#github-awesome)
-  - [Algorithm](#algorithm)
-  - [CS](#cs)
-  - [Interview](#interview)
+- [Awesome](#Awesome)
+- [Algorithm](#algorithm)
+- [CS](#cs)
+- [Interview](#interview)
+- Program language
   - [C](#c)
   - [C++](#c-1)
   - [Go](#go)
@@ -29,9 +26,14 @@
   - [CMake](#cmake-1)
   - [Vim-Plugin](#vim-plugin)
   - [embedded](#embedded)
-  - [Mac](#mac)
   - [iOS](#ios)
-
+- [Tools](#Tools)
+- [APP](#APP)
+  - [Windows](#Windows)
+  - [Mac](#Mac)
+  - [Linux](#Linux)
+  - [Android](#Android)
+  - [iPhone](#iPhone)
 
 ## GitHub-awesome
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer.
@@ -41,6 +43,7 @@
 - [awesome-python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesome-go](https://github.com/avelino/awesome-go) A curated list of awesome Go frameworks, libraries and software
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust) A curated list of Rust code and resources.
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) The iconic SVG, font, and CSS toolkit
 - [awesome-vue](https://github.com/vuejs/awesome-vue) 🎉 A curated list of awesome things related to Vue.js
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
@@ -48,17 +51,18 @@
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⚡ Delightful Node.js packages and resources
 - [awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml) A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.
 - [awesome-tools](https://github.com/cube-js/awesome-tools) Open-source list of awesome data visualization tools (e.g., charting libraries) for software developers 📊📈
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 ## Algorithm
 - [Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [hello-algo](https://github.com/krahets/hello-algo.git) 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书。提供 Java, C++, Python, Go, JS, TS, C# 多语言代码实现。
 
 ## CS
 - [Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource) 学习计算机科学的一些pdf资源
 - [java-books-collections](https://github.com/RongleXie/java-books-collections) 📚Java编程书籍收集分享。Java programming books collection to share.🚀
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
 ## Interview
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) 💯 Curated coding interview preparation materials for busy software engineers
@@ -235,6 +239,16 @@
 
 ## embedded
 - [EmbedSummary](https://github.com/zhengnianli/EmbedSummary) 精品嵌入式资源汇总
+
+## Rust
+- [Pake](https://github.com/tw93/Pake.git) 🤱🏻 Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+- [tauri](https://github.com/tauri-apps/tauri.git) Build smaller, faster, and more secure desktop applications with a web frontend.
+- [rustdeskt](https://github.com/rustdesk/rustdesk.git) Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+- [meilisearch](https://github.com/meilisearch/meilisearch.git) A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- [yew](https://github.com/yewstack/yew.git) Rust / Wasm framework for building client web apps
+- [nushell](https://github.com/nushell/nushell.git) A new type of shell
+- [mdBook](https://github.com/rust-lang/mdBook.git) Create book from markdown files. Like Gitbook but implemented in Rust
+
 ## Mac
 - [Medis](https://github.com/luin/medis) Medis is a modern Redis GUI designed for Mac. It is trustworthy in critical situations.
 - [Homebrew](https://github.com/Homebrew/brew) 🍺 The missing package manager for macOS (or Linux)
